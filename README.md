@@ -1,4 +1,7 @@
 # Public-Message-Board
+Overview:
+This is a message board implemented as a client-server application using pure unicast sockets. The Client program is written in Python while the server program is written in Java
+
 How to compile and run program:
 - Client:
 Open the terminal with working directory be where client.py is located
